@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: cyan;
+   margin: 0 auto;
+   padding: 20;
+}
+.p1 h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(102, 173, 102)
+}
+.p1 h3{
+      text-align: center;
+      color: rgb(102, 173, 102)
+   }
+       
+   .img1{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 85vw;
+    height: 15vh;
+}
+.img2{
+    display: flex;
+    margin-left: 250px;
+}
+.img3{
+    display: flex;
+    justify-content: center;
+}
+.img4{
+    display: flex;
+    width: 280px;
+    height: 250px;
+    justify-content: center;
+   text-align: center;
+   margin: 0 auto;
+   padding: 30px 30px;
+}
+.hel{
+    text-align: center;
+    top: 800px;
+    margin-top: -25px;
+    color: rgb(102, 173, 102)
+}
+.pa{
+    display: flex;
+    width: 395px;
+    margin: 0 auto;
+    margin-top: 20px;
+    justify-content: center;
+}
+.dev{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(102, 173, 102)  
+}
+p{
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(102, 173, 102)  
+  }
+.border{
+    text-align: center;
+    margin-top: 50px;
+    border-top: 15px solid;
+   border-bottom: 15px solid;
+   margin: 100px 400px;
+}
+.border img{
+    display: flex;
+    width: 170px;
+    height: 170px;
+    margin-right: 90px;
+    float: left;
+}
+.border h1{
+    display: flex;
+    justify-content: center;
+   text-align: start;
+    color: rgb(102, 173, 102) 
+}
+.border p{
+    text-align: justify;
+    font-size: 18px;
+    justify-content: center;
+}
+.img5{
+    display: flex;
+    width: 170px;
+    height: 170px;
+    margin: 0 auto;
+    margin-top: -90px;
+    margin-right: 400px;
+   float: right;
+}
+h1 p{
+    float: right;
+    text-align: center;
+}
+
+ p{
+     text-align: center;
+     text-align: justify;
+    font-size: 18px;
+ }
+ .my{
+     margin: o auto;
+     text-align: center;
+ }
+ .port{
+     background-color: aliceblue;
+     margin: 0 auto;
+ }
+ .portfolio{
+    background-color: rgb(235, 226, 226);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+ }
+ .portfolio img{
+     width: 380px;
+     height: 300px;
+     margin: 10px;
+     display: inline-block;
+     transition: all 1s;
+ }
+ .portfolio :hover{
+     transform: scale(1.1);
+ }
+  h3{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(102, 173, 102)  
+}
+.in{
+    color: green;
+   display: flex;
+   justify-content: center;
+}
+.ins{
+    color: green;
+   display: flex;
+   justify-content: center;
+}
+.int{
+    color: black;
+   display: flex;
+   justify-content: center;
+}
+.button :hover{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: green;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2rem;
+}
+.button{
+    color: rgb(74, 167, 190);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left:200px; 
+}
+
+.joy{
+    background-color: rgb(120, 196, 168);
+        margin-top: 40px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+      align-items: stretch;
+      
+}
+.joy ul li{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+}
+.joy ul li a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+}
+    
